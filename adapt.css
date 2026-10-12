@@ -32,7 +32,7 @@
     body{background-color: rgb(121, 80, 50);}
     .container{
         background-color: rgb(121, 80, 50);
-        width: 100%;                          /* ← на мобильных — на всю ширину */
+        width: 100%;                          
         padding: 15px;
         min-height: 100vh; 
     }
